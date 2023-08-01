@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.36.2"
+  },
+  "name": "agile-pratikpathak01",
+  "description": "For a software product to be valuable, it must both function flawlessly and meet the genuine needs of its users. If not done correctly, a faulty software can lead to various challenges, including financial losses, public embarrassment, potential lawsuits, security breaches, and more. Historically, many software projects fail to reach successful completion, both technically and financially.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "next": "^13.4.12",
+    "playwright-core": "^1.36.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "15.x"
+  }
+}
